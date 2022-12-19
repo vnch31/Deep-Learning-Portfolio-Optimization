@@ -7,7 +7,7 @@ Team-7 Members:
 * 南維克 (VICTOR N.)
 * 沐西門 (SIMON MOULIN)
 * 葛 丁 (GLADHI GUARDDIN)
-* ??? (ZOE EDEN)
+* 尹佑怡 (ZOE EDEN)
 
 
 #  Getting Started
