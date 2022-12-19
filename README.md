@@ -15,7 +15,7 @@ Team-7 Members:
 Install in Linux/Unix
 ```
 # git clone https://github.com/vnch31/Deep-Learning-Portfolio-Optimization.git
-# cd FinTech-Portfolio-Optimization/
+# cd Deep-Learning-Portfolio-Optimization/
 # python3 -m venv env
 # source env/bin/activate
 # pip install -r requirements.txt
