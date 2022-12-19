@@ -1,0 +1,12 @@
+# file extensions
+*.csv
+*log
+*.pt
+*.DS_Store
+
+# directory
+__pycache__
+save/
+data/downloads/*
+data/autotickers/*
+venv/
