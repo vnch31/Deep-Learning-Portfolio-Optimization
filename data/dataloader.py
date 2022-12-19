@@ -26,6 +26,15 @@ def get_data_yfinance(tickers, start_date, end_date, interval):
 
         filename = f"dataset_{start_date}_{end_date}_{tickers.replace(' ', '_')}.csv"
 
+        # check if downloads exists
+        os.chdir('data')
+        if not os.path.exists('./downloads/'):
+            logging.debug("Creating download directory")
+            os.mkdir('downloads')
+        os.chdir('..')
+
+        
+
         # check if file exists
         if os.path.isfile(f'./data/downloads/{filename}'):
             logging.debug(f'File {filename}, no need to download, loading file...')
