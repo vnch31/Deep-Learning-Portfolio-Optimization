@@ -58,6 +58,10 @@ optional arguments:
 
 ```
 
+### Results
+
+After runnning the program you can find the results in the `save` directory at the root of the project.
+
 ## Custom Configuration
 
 Main configuration ([config.json](https://github.com/vnch31/FinTech-Portfolio-Optimization/blob/adin/config.json)), default value:
