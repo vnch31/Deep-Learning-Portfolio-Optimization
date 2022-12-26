@@ -64,7 +64,7 @@ After runnning the program you can find the results in the `save` directory at t
 
 ## Custom Configuration
 
-Main configuration ([config.json](https://github.com/vnch31/FinTech-Portfolio-Optimization/blob/adin/config.json)), default value:
+Main configuration ([config.json](https://github.com/vnch31/Deep-Learning-Portfolio-Optimization/blob/main/config.json)), default value:
 ```
 {
     "name": "test_tcn_2",
@@ -79,7 +79,7 @@ Main configuration ([config.json](https://github.com/vnch31/FinTech-Portfolio-Op
 }
 ```
 
-Model configuration ([models_config.json](https://github.com/vnch31/FinTech-Portfolio-Optimization/blob/main/models_config.json)), example:
+Model configuration ([models_config.json](https://github.com/vnch31/Deep-Learning-Portfolio-Optimization/blob/main/models_config.json)), example:
 ```
 {
   ....
